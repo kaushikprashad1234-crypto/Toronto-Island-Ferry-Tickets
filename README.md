@@ -213,8 +213,9 @@ Ferry-Capacity-Analytics/
 ├── report/
 │   ├── Research_Paper.pdf
 │   ├── Executive_Summary.pdf
-│  
 │
+├── images/
+│   ├──screenshot figures
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -241,7 +242,7 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
