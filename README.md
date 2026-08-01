@@ -227,7 +227,7 @@ Ferry-Capacity-Analytics/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Ferry-Capacity-Analytics.git
+git clone https://github.com/kaushikprashad1234-crypto/Toronto-Island-Ferry-Tickets.git
 
 cd Ferry-Capacity-Analytics
 ```
